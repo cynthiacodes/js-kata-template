@@ -50,3 +50,4 @@ function findAverageNumber(numbersArray){
     return averageNumArray;
 }
 
+export { findAverageNumber };
